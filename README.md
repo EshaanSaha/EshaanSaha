@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eshaan Saha</h1>
-<h3 align="center">a second-year B.Tech student in Computer Science and Engineering with a specialization in Data Science at Manipal University Jaipur. My focus areas include Python, SQL, Java, C, Data Analysis, Data Science, Data Visualization, Computer Vision, Machine Learning, RDBMS, and Robotics.</h3>
+<h3 align="center">A second-year B.Tech student in Computer Science and Engineering with a specialization in Data Science at Manipal University Jaipur. My focus areas include Python, SQL, Java, C, Data Analysis, Data Science, Data Visualization, Computer Vision, Machine Learning, RDBMS, and Robotics.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshaansaha" alt="eshaansaha" /></a> </p>
 
